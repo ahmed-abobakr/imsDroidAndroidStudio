@@ -1,0 +1,338 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:1-80:12
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:1-80:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:1-80:12
+	package
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:4:7-38
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:5:33-65
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:3:7-53
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:5:7-32
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:7:5-47:19
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-53:19
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:46:5-53:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:7:48-80
+	android:persistent
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:7:81-106
+	android:icon
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:7:18-47
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:7:107-153
+service#org.doubango.imsdroid.NativeService
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:8:6-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:8:15-44
+activity#org.doubango.imsdroid.Main
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:10:9-16:20
+	android:label
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:11:19-51
+	android:launchMode
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:11:52-82
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:10:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:14:27-74
+activity#org.doubango.imsdroid.Screens.ScreenSplash
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:17:9-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:17:19-55
+activity#org.doubango.imsdroid.Screens.ScreenHome
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:18:19-53
+activity#org.doubango.imsdroid.Screens.ScreenTabDialer
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:19:9-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:19:19-58
+activity#org.doubango.imsdroid.Screens.ScreenTabHistory
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:20:9-71
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:20:19-59
+activity#org.doubango.imsdroid.Screens.ScreenTabInfo
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:21:9-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:21:19-56
+activity#org.doubango.imsdroid.Screens.ScreenTabContacts
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:22:9-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:22:19-60
+activity#org.doubango.imsdroid.Screens.ScreenTabOnline
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:23:19-58
+activity#org.doubango.imsdroid.Screens.ScreenAV
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:24:9-63
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:24:19-51
+activity#org.doubango.imsdroid.Screens.ScreenInterceptCall
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:25:19-62
+activity#org.doubango.imsdroid.Screens.ScreenSettings
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:27:19-57
+activity#org.doubango.imsdroid.Screens.ScreenTabMessages
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:28:9-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:28:19-60
+activity#org.doubango.imsdroid.Screens.ScreenGeneral
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:29:9-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:29:19-56
+activity#org.doubango.imsdroid.Screens.ScreenIdentity
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:30:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:30:19-57
+activity#org.doubango.imsdroid.Screens.ScreenNetwork
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:31:9-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:31:19-56
+activity#org.doubango.imsdroid.Screens.ScreenCodecs
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:32:9-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:32:19-55
+activity#org.doubango.imsdroid.Screens.ScreenSecurity
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:33:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:33:19-57
+activity#org.doubango.imsdroid.Screens.ScreenContacts
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:34:19-57
+activity#org.doubango.imsdroid.Screens.ScreenPresence
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:35:19-57
+activity#org.doubango.imsdroid.Screens.ScreenMessaging
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:36:9-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:36:19-58
+activity#org.doubango.imsdroid.Screens.ScreenNatt
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:37:9-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:37:19-53
+activity#org.doubango.imsdroid.Screens.ScreenQoS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:38:19-52
+activity#org.doubango.imsdroid.Screens.ScreenAbout
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:39:9-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:39:19-54
+activity#org.doubango.imsdroid.Screens.ScreenChat
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:40:9-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:40:19-53
+activity#org.doubango.imsdroid.Screens.ScreenFileTransferQueue
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:41:9-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:41:19-66
+activity#org.doubango.imsdroid.Screens.ScreenFileTransferView
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:42:9-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:42:19-65
+activity#org.doubango.imsdroid.Screens.ScreenAVQueue
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:43:9-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:43:19-56
+activity#org.doubango.imsdroid.Screens.ScreenChatQueue
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:44:9-70
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:44:19-58
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:49:5-67
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:49:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:50:2-73
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-76
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:50:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:51:2-76
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:51:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:52:2-73
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-76
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:52:19-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:53:2-76
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:53:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:55:2-78
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:55:19-75
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:56:2-62
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-65
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:56:19-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:57:2-65
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-68
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:57:19-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:58:2-68
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-71
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:58:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:59:2-77
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-80
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:5-80
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-80
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:59:19-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:60:2-63
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-66
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:60:19-60
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:61:2-78
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-81
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:61:19-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:63:5-73
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-73
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:5-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:63:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:64:2-72
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-75
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:24:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:64:19-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:65:2-69
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-72
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:65:19-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:66:2-70
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-73
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:66:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:67:2-72
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-75
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:67:19-69
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:68:2-78
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-81
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:68:19-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:69:2-66
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-69
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:29:5-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:69:19-63
+uses-permission#android.permission.RAISED_THREAD_PRIORITY
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:72:2-78
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-81
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:72:19-75
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:74:5-120
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-34:36
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:74:93-117
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:74:22-92
+uses-feature#0x00020000
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:76:2-76
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-38:36
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:36:5-38:36
+	android:glEsVersion
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:76:16-48
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:76:49-73
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:77:2-82
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:5-41:36
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:77:55-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:77:16-54
+uses-feature#android.hardware.audio.low_latency
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:78:2-93
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:36
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:78:66-90
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml:78:16-65
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\imsdroid\AndroidManifest.xml
+service#org.doubango.ngn.NgnNativeService
+ADDED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:9-69
+	android:name
+		ADDED from [:android-ngn-stack] D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\build\intermediates\library_manifest\debug\AndroidManifest.xml:52:18-66

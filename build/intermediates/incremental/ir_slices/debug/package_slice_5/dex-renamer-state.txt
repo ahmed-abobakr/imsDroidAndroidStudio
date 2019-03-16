@@ -1,0 +1,4 @@
+#Sat Mar 16 11:17:05 EET 2019
+base.0=D\:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

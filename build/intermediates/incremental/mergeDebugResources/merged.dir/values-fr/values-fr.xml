@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stringarray_codes">
+        <item>Italy +39</item>
+        <item>France +33</item>
+    </string-array>
+    <string name="day_today">Aujourdh\'ui</string>
+    <string name="day_yesterday">Hier</string>
+</resources>

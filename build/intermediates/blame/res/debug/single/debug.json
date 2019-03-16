@@ -1,0 +1,846 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_video_stop_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\video_stop_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_dialer_buttons.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_dialer_buttons.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_grip_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_grip_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_btn_on.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_btn_on.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_avatar_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\avatar_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_bottom_frame.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_bottom_frame.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_history.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_history.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_speaker_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_speaker_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_photo_frame.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_photo_frame.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_btn_pressed.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_call_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\ic_menu_call_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_input_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-ldpi\\input_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_hang_up_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_hang_up_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_chat.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_chat.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_btn_normal.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_arrow_down.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_arrow_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_bottom_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_bottom_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_time_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_time_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_webcam_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\webcam_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_refresh_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\refresh_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_photo_frame.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_photo_frame.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_online.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_online.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_back_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_back_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_visio_call_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\visio_call_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_grey_pressed.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_grey_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_btn_on.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_btn_on.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sign_in_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sign_in_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_input_numbers.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\input_numbers.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_online_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_online_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_contacts.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_contacts.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_document_up_128.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\document_up_128.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_top_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_top_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_bottom_frame.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_bottom_frame.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_disambig_divider.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_disambig_divider.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_folder_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\folder_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_settings_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_settings_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_image_gallery_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\image_gallery_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_onthephone_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_onthephone_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_middle_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_middle_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_qos_qoe_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\qos_qoe_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_exit_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\exit_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_action_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\action_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_natt_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\natt_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_input_numbers.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-ldpi\\input_numbers.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_top_frame.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_top_frame.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_dialer.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_dialer.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_network.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_network.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_history_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\history_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_expand.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\expand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_about_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\about_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_ball_glass_green_16.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\bullet_ball_glass_green_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_middle_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_middle_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_voice_call_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\voice_call_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_dialer_button_image.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_dialer_button_image.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_btn_selected.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_btn_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_network_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\network_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_middle_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_middle_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_arrow_down.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_arrow_down.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_resume_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_resume_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_document_up_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\document_up_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_bottom_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_bottom_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sel_red.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sel_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_bottom.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_bottom_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_bottom_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_codecs_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\codecs_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_video_start_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\video_start_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_codecs.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_codecs.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sharp_76.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sharp_76.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_dialer_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\dialer_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_natt.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_natt.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_ic_input_delete_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\ic_input_delete_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_btn_pressed.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_pick_up_64.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_pick_up_64.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_start_76.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\start_76.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_sym_action_map.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\sym_action_map.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sign_inprogress_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sign_inprogress_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sign_out_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sign_out_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_topright_to_bottomleft.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_hang_up_64.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_hang_up_64.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_dialer_button_text.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_dialer_button_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_history_item_av.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_history_item_av.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_topright_to_bottomleft.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_chat_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\chat_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_chat_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_chat_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_av_queue.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_av_queue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_messages.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_messages.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_av_queue_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_av_queue_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_android_avatar_big.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\android_avatar_big.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_grip_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_grip_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_general_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\general_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_top_left.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_top_left.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_disambig_divider.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_disambig_divider.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_dark.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_dark.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_im_invisible_user_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\im_invisible_user_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_contacts_contact_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_contacts_contact_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_general.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_general.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_check_on_38.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\check_on_38.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_green.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_identity.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_identity.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_bkg_incall.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_bkg_incall.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_identity_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\identity_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_home.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_red.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_red.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sms_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sms_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_top_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_top_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_top.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_check_off_38.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\check_off_38.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_options_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\options_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dialog_dialer_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\ic_dialog_dialer_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_qos.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_qos.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_middle_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_middle_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_top_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_top_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_input_text.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\input_text.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_lock_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\lock_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_hyper_avail_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_hyper_avail_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_eab2_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\eab2_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_delete_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\delete_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_messaging.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_messaging.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_eab_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\eab_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_messaging_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\messaging_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_drop_shadow.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_drop_shadow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_contacts.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_contacts.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_visio_call_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\visio_call_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_call_25.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_call_25.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_splash.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_splash.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_bottom_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_bottom_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_avatar_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\avatar_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_call_missed_45.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\call_missed_45.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_pick_up_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_pick_up_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_top.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_call_proxsensor.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_call_proxsensor.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_bottom.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_btn_selected.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_btn_selected.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sel_keypad.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sel_keypad.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_image_gallery_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\image_gallery_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_bkg_termwait.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_bkg_termwait.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_arrow_up.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_arrow_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_grip_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_grip_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_arrow_up.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_arrow_up.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_offline_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_offline_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_call_outgoing_45.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\call_outgoing_45.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_quickcontact_slider_btn.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\quickcontact_slider_btn.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_call_trying.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_call_trying.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_disambig_bottom_bg.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_disambig_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_middle_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_middle_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_top_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_top_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_home_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_home_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_redcircle.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_redcircle.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_disambig_bottom_bg.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_disambig_bottom_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sel_grey.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sel_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_rail.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\rail.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_chat_queue_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_chat_queue_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_security.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_security.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_quickaction.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\quickaction.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_red_pressed.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_red_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_bottomright_to_topleft.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_ball_glass_grey_16.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\bullet_ball_glass_grey_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_folder_movie_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\folder_movie_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_about.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_about.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_topleft_to_bottomright.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_codecs_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_codecs_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_voice_call_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\voice_call_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_presence.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_presence.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_light.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_light.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_document_down_128.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\document_down_128.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_call_incall_audio.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_call_incall_audio.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_quickcontact_slider_background.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\quickcontact_slider_background.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_call_incoming_45.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\call_incoming_45.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_chat_queue.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_chat_queue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_document_down_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\document_down_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_filetrans_queue_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_filetrans_queue_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_grip_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_grip_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_secure_16.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\secure_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_info.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_info.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-finger_sym_action_add.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi-finger\\sym_action_add.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_chat_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\chat_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_middle_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_middle_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_bullet_ball_glass_red_16.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\bullet_ball_glass_red_16.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_bottomleft_to_topright.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_user_busy_24.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\user_busy_24.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_presence_status_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_presence_status_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_in_top_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_in_top_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_topleft_to_bottomright.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_phone_hold_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\phone_hold_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_green_pressed.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_green_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_slider_btn_normal.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_slider_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_av.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_av.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_shrink_from_bottomleft_to_topright.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_call_incall_video.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_call_incall_video.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-finger_quickcontact_drop_shadow.9.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi-finger\\quickcontact_drop_shadow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_filetrans_queue.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_filetrans_queue.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_filetrans_view.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_filetrans_view.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_tab_messages_item.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_tab_messages_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\anim_grow_from_bottomright_to_topleft.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\anim\\grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_grey.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_grey.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sel_green.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sel_green.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_bottom_center.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_bottom_center.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_screen_settings.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\screen_settings.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_sym_action_chat_48.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\sym_action_chat_48.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_expand.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-hdpi\\expand.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baloon_out_bottom_right.png.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable-mdpi\\baloon_out_bottom_right.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_shape_rounded_white.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\shape_rounded_white.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\layout_view_list_header.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\layout\\view_list_header.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\build\\intermediates\\res\\merged\\debug\\drawable_grad_whiterounded.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\imsdroid-master\\imsdroid-master\\imsdroid\\res\\drawable\\grad_whiterounded.xml"
+    }
+]

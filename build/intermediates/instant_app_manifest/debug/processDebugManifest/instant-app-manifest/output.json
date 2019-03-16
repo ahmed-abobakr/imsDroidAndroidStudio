@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":588,"versionName":"2.586.1328","enabled":true,"outputFile":"imsdroid-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.doubango.imsdroid","split":"","minSdkVersion":"7"}}]
